@@ -64,5 +64,7 @@ Gra nie wysyła raportu prowadzącemu. Student przekazuje go samodzielnie.
 PLIK DO UDOSTĘPNIENIA
 Wystarcza pojedynczy HTML. Wszystkie biblioteki, fonty i licencje są osadzone.
 Folder GitHub_Pages_W5 zawiera ten sam plik jako index.html.
-Nie opublikowano strony ani nie zmieniono witryny warsztatu 4.
+Strona gry: https://rszarf-1.github.io/ewaluacja-w5/
+Repozytorium: https://github.com/rszarf-1/ewaluacja-w5
+Gra W5 ma osobną witrynę; witryna warsztatu 4 pozostaje bez zmian.
 Wersja 2.0.0, 25 października 2026.
