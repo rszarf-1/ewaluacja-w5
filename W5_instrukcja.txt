@@ -1,0 +1,68 @@
+WARSZTAT 5 — MISJA EWALUATORA — ZACHOWANIA AKTORÓW
+
+URUCHOMIENIE
+Otwórz W5_misja_ewaluatora_zachowania.html w pełnej przeglądarce.
+Gra, słowniczek, zapis postępu oraz generator PDF są zawarte w jednym pliku.
+Nie wymagają połączenia z internetem. Internet jest potrzebny do otwierania
+zewnętrznych źródeł i lektury. Na telefonie najwygodniej udostępnić HTML
+przez HTTPS; podgląd załącznika lub ZIP może nie wykonywać JavaScript.
+
+PRZEBIEG — OKOŁO 20 MINUT NA JEDEN PRZYPADEK
+1. Wybierz jeden z ośmiu przypadków i rozpoznaj zachowanie.
+2. Wybierz pierwszą hipotezę, zapisz co mogłoby ją osłabić i odkryj dwie karty.
+3. Przeczytaj kartę realizatora i rozważ warunki jego działania.
+4. Wybierz sposób dalszego sprawdzenia oraz uwzględnij etykę.
+5. Popraw model, określ stanowisko wobec hipotezy i uzasadnij je własnymi słowami.
+6. Pobierz wynik z komentarzem w PDF. Opcjonalnie odkryj trzecią kartę.
+
+WYNIK I INFORMACJA ZWROTNA
+Gra zawiera sześć zadań wyboru w każdym przypadku, maksymalnie 12 punktów.
+2 punkty: pełne rozróżnienie. 1 punkt: częściowo uzasadniony zapis.
+0 punktów: zapis jest nietrafny wobec pytania lub przekracza dane.
+Odpowiedź można poprawić po komentarzu. Raport zachowuje pierwszą odpowiedź
+i wynik oraz odpowiedź obecną i jej wyjaśnienie. Hipotezy, wybór dwóch kart,
+refleksja i notatki do portfolio nie są punktowane. Wybrana para kart
+zmienia zadania 2 i 4 oraz wskazaną w raporcie lukę rozpoznania. Długość refleksji służy
+tylko sprawdzeniu, czy zapisano odpowiedź. Otwarte teksty omawia partner
+lub prowadzący. To ćwiczenie z dostępnymi podpowiedziami, a nie sprawdzian pracy bez pomocy
+ani automatyczna ocena jakości portfolio.
+
+PDF
+Przycisk „Pobierz wynik z komentarzem w PDF” tworzy rzeczywisty plik PDF
+lokalnie z polskimi literami. Nie wysyła odpowiedzi na serwer.
+PDF zawiera wynik, pierwsze i obecne odpowiedzi, przyczyny przyznania punktów,
+pełniejsze zapisy, odkryte karty i ich granice, refleksję, notatki oraz źródła.
+Jeśli pobieranie nie ruszy, użyj widocznego linku do przygotowanego pliku.
+Jeśli na telefonie otworzy się podgląd, zapisz go przez menu udostępniania.
+Alternatywą jest „Drukuj / zapisz PDF z przeglądarki” na ekranie raportu.
+Raport roboczy można pobrać przed ukończeniem misji; brakujące zadania
+są wtedy jawnie oznaczone. PDF nie stanowi zabezpieczonego wyniku egzaminu.
+
+PODSTAWA BEHAWIORALNA
+K. Olejniczak, P. Śliwowski (2014), Nadchodzi rewolucja? Analizy behawioralne
+w interwencjach publicznych, w: (R)ewaluacja 2. Wiedza w działaniu, PARP,
+s. 13–45. Wybrane do W5: strony drukowane 13–19 i 35–40.
+Każde hasło i podpowiedź mają odwołanie do konkretnych stron.
+Objaśnienia są autorskimi parafrazami. Sytuacje z programów są fikcyjnymi
+zastosowaniami dydaktycznymi, nie ustaleniami tego tekstu.
+Pytania o dane, rutyny i warunki organizacyjne to zastosowania do gry.
+Nie każda trudność ani niepożądana decyzja jest błędem poznawczym.
+https://www.parp.gov.pl/component/publications/publication/rewaluacja-wiedza-w-dzialaniu
+
+ZAPIS I KONTYNUACJA W4
+Postęp poszczególnych przypadków jest oddzielony. Gra próbuje zachowywać go
+w localStorage; ustawienia przeglądarki mogą to uniemożliwiać.
+Przez „Zapis i pliki” można pobrać lub wczytać własny JSON W5.
+Wersja 2 ma inne pytania i osobny zapis postępu. Nie przelicza wyników
+wersji 1 nowym kluczem; zachowaj poprzedni PDF, a nową misję rozpocznij od nowa.
+Import JSON W4 przenosi tylko refleksje do pustych notatek odpowiednich
+przypadków; nie przepisuje wyników W4 jako danych o rzeczywistym programie.
+Własny papierowy model z W4 nadal służy do pracy nad portfolio.
+Nie użyto AI do automatycznego oceniania otwartych odpowiedzi.
+Gra nie wysyła raportu prowadzącemu. Student przekazuje go samodzielnie.
+
+PLIK DO UDOSTĘPNIENIA
+Wystarcza pojedynczy HTML. Wszystkie biblioteki, fonty i licencje są osadzone.
+Folder GitHub_Pages_W5 zawiera ten sam plik jako index.html.
+Nie opublikowano strony ani nie zmieniono witryny warsztatu 4.
+Wersja 2.0.0, 25 października 2026.
